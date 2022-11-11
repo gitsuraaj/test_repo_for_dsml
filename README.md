@@ -3,6 +3,3 @@
 
 I am making an edit from remote
 
-
-
-Making change from local
